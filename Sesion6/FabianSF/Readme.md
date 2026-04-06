@@ -6,6 +6,8 @@
 **Maestría en Inteligencia Artificial Aplicada - Universidad Icesi**  
 *Asignatura:* Procesamiento de Lenguaje Natural (Sesión 6)
 
+> ⚠️ **IMPORTANTE (Nota de Evaluación):** Debido a la masiva cantidad de metadatos interactivos de la Interfaz Gráfica y el clúster FAISS, el visor nativo de Github **NO** pre-visualizará este Notebook correctamente. 
+> 👉 Por favor, da clic directamente en el botón **"Open In Colab"** de la parte superior para acceder al entorno funcional interactivo.
 ---
 
 ## 📺 Demostración Analítica en Video
