@@ -6,6 +6,6 @@ Si al visualizar este notebook en GitHub encuentra un error como `Invalid Notebo
 
 Le recomendamos encarecidamente abrir este notebook directamente en Google Colab. Al ejecutar las celdas en Colab, podrá interactuar con la interfaz de Gradio y observar todas las salidas y funcionalidades tal como fueron diseñadas y probadas.
 
-[Enlace para abrir este Notebook en Google Colab](https://colab.research.google.com/github/alfa7g7/icesi-nlp-20261-curso/blob/main/Sesion6/Proyecto_Final_RAG_Chatbot_Foxtrot.ipynb)
+[Enlace para abrir este Notebook en Google Colab]([https://colab.research.google.com/github/alfa7g7/icesi-nlp-20261-curso/blob/main/Sesion6/Proyecto_Final_RAG_Chatbot_Foxtrot.ipynb](https://colab.research.google.com/drive/1tEGOZH7BSp2t72ETkbX--djnhWH2zdnw?usp=sharing))
 
 ¡Gracias por su comprensión!
